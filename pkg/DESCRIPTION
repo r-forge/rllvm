@@ -1,0 +1,7 @@
+Package: Rllvm
+Title: LLVM Bindings for R
+Version: 0.1
+Description: A binding to the Low Level Virtual Machine (LLVM) library
+Author: Byron Ellis <byron.ellis@gmail.com>
+Maintainer: Byron Ellis <byron.ellis@gmail.com>
+License: LGPLv2

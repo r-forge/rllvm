@@ -1,0 +1,4 @@
+useDynLib(Rllvm)
+
+export(".MainModule","create.module","print.LLVMModule","dump.module","type<-","declare")
+export("llvm.type","llvm.struct","llvm.pointer","llvm.array","llvm.vector","llvm.fn")
